@@ -1,0 +1,15 @@
+// Research Deva Corpus
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:18367235746997108341 LICENSE.md
+// Sunday, April 5, 2026 - 11:05:33 AM PST
+
+::BEGIN:MAIN
+# {{profile.name}}
+
+{{profile}}
+
+talk: #police help main:license
+
+copyright: {{profile.copyright}}
+::END:MAIN

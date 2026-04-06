@@ -1,0 +1,162 @@
+{
+  "id": "18367235746997108341",
+  "name": "@indra.ai/deva.research",
+  "version": "0.0.0",
+  "license": "VLA:18367235746997108341 LICENSE.md",
+  "VLA": {
+    "uid": "18367235746997108341",
+    "time": 1775412333582,
+    "iso": "2026-04-05T18:05:33.582Z",
+    "utc": "Sun, 05 Apr 2026 18:05:33 GMT",
+    "date": "Sunday, April 5, 2026 - 11:05:33 AM",
+    "license": "44486733861528360966",
+    "fingerprint": "YLvCuQ8GsyK2n/Qn43lOa8T9ggXTPdQ5RmakHrv4vP0=",
+    "client": "NOxLEoxnWGwcQNbXdhkfuLisEn/vqV2vgxO80lzibWo=",
+    "agent": "EngA8dQ32PPHXAgJCUnJH9BEnK5BPdau/fzs8Zwk9qk=",
+    "machine": "m1MO/haZd+vpwyXAlBxsXfJPI8AiDq3eFpyEtu4gw4g=",
+    "core_hash": "QEy/Irz89vvDBstXvQueaC88n8tM0vzH+gN6DK2LpZY=",
+    "status": "vedic",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "tags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+    "owner": "Quinn A Michaels",
+    "creator": "Quinn A Michaels",
+    "salute": "🤝🫡🪪🕉🇺🇸",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+    "md5": "H1iRhe2ioZrPAJM9/iziEg==",
+    "sha256": "CO1ousgV2jYGTzypRE1Oyj4XZyA+k4lTafGtLhlQz2k=",
+    "sha512": "llF5sNbBu51p6JiB8mu3CVK7lhInf9hdtUMyDIzB5HduZe4TxymsnF1R7jUurrJOF/TclHFYKHPCiBF7bn6+5Q=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "description": "Research Deva manages the Quinn A Michaels 5 element Air, Earth, Fire, Water, and Ether Deva Core Research Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.research.git"
+  },
+  "keywords": [
+    "Research",
+    "Deva",
+    "Research Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.research/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.37.3"
+  },
+  "data": {
+    "agent": {
+      "id": "44197328818501811589",
+      "key": "research",
+      "prompt": {
+        "emoji": "🥼",
+        "text": "#research",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "40313832871656391058",
+        "name": "Research Deva",
+        "hashtag": "#Research",
+        "trigger": "@Research",
+        "title": "The Research Deva",
+        "subtitle": "Research Deva Five Element Research Framework",
+        "describe": "Research Deva the Indra.ai Quantum Isotropic Kinetic Cymatic Five Elemental Research Framework. Beyond Research and Beyond Time the Research Deva models psychological aspects with the five element paradigm.",
+        "tweet": "Research Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Research Expert.",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Research #ResearchDeva #ResearchPRIME",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Research Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.recursion",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/research/emoji.png",
+        "avatar": "/devas/research/avatar.png",
+        "image": "/devas/research/image.png",
+        "background": "/devas/research/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "salute": "🤝🫡🥼🕉️🇺🇸",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "created": "Sunday, April 5, 2026 - 11:05:33 AM PST",
+        "updated": "Sunday, April 5, 2026 - 11:05:33 AM PST"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "🥼 Research Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "sensory": [
+        "Sound",
+        "Touch",
+        "Color",
+        "Taste",
+        "Smell"
+      ],
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
