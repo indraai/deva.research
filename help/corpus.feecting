@@ -9,7 +9,7 @@
 
 {{profile}}
 
-talk: #police help main:license
+talk: #research help main:license
 
 copyright: {{profile.copyright}}
 ::END:MAIN
